@@ -1,8 +1,7 @@
 ### Hi, I'm juliane mayara.
 
 💻 > Analise e Desenvolvimento de Sistemas; <br>
-🤍 > Estudando html, css e javascript;
-
+🤍 > Estudando:
 <ul>
   <li> Html </li>
   <li> Css </li>
