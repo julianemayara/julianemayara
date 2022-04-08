@@ -1,7 +1,10 @@
 ### Hi, I'm juliane mayara.
 
-💻 > Analise e Desenvolvimento de Sistemas; <br>
-🤍 > Estudando:
+💻 > Cursando Analise e Desenvolvimento de Sistemas, <br>
+Na UNIVS - centro universitário vale do salgado. <br><br>
+
+
+🤍 > Estudando e praticando:
 <ul>
   <li> Html </li>
   <li> Css </li>
