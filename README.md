@@ -1,5 +1,5 @@
 ### OI! eu sou a juliane Mayara;
 
-💻 > Cursando analise e desenvolvimento de sistemas;
+💻 > Analise e Desenvolvimento de Sistemas; <br>
 🤍 > Estudando html, css e javascript;
 
